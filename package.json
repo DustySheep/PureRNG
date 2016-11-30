@@ -1,0 +1,26 @@
+{
+  "name": "PureRNG",
+  "description": "PureRNG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "plugins": [],
+  "devDependencies": {},
+  "dependencies": {
+    "radium": "^0.18.1",
+    "react": "^15.4.1",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0"
+  }
+}
